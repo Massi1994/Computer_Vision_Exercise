@@ -8,6 +8,6 @@ In the second part different combinations of features are combined to find out w
 3. Esercitazione3 - In this notebook we can see different ways to show an image. There are different libraries that can be used to show images; in our case we will use the skimage library, but also the Pillow or OpenCV libraries can be used.
 In this notebook we see how to show just one of the different RGB canals, we can reshape an image or change the colors of an image from RGB to black and white.
 At the same time inside the notebook we make an exercise to improve the definition of the image using an Unsharping Mask:
-  1. First we calculate the blurred image using a gaussian filter
-  2. Then we subtract this from the original image
-  3. Then we add the result to the original image to obtain the result with better definition.
+  - First we calculate the blurred image using a gaussian filter
+  - Then we subtract this from the original image
+  - Then we add the result to the original image to obtain the result with better definition.

@@ -11,3 +11,4 @@ At the same time inside the notebook we make an exercise to improve the definiti
   - First we calculate the blurred image using a gaussian filter
   - Then we subtract this from the original image
   - Then we add the result to the original image to obtain the result with better definition.
+4. Esercitazione4 - In this notebook we visualize images and identify their keypoints. These are important points that univocally identify the image univocally indipendent from the rotation, ...
